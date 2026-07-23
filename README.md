@@ -8,6 +8,12 @@ I build tools that make engineering easier for beginners. I don't have a traditi
 
 ---
 
+## 🧅 OnionPaper
+
+Reading a difficult paper or book in a second language often means switching between a reader, translator, notes app, dictionary, and AI chat. OnionPaper brings the entire learning workflow into one focused workspace. [Try OnionPaper](https://onionpaper.vercel.app/)
+
+---
+
 ## ⭐ Featured projects
 
 Tools that make engineering easier for beginners.
