@@ -8,6 +8,12 @@
 
 ---
 
+## 🧅 OnionPaper
+
+用第二语言读一篇难懂的论文或一本书，通常要在阅读器、翻译、笔记、词典和 AI 对话之间来回切换。OnionPaper 把整个学习流程放进一个专注的工作空间。[体验 OnionPaper](https://onionpaper.vercel.app/)
+
+---
+
 ## ⭐ 精选项目
 
 让零基础的人更容易理解工程的工具。
