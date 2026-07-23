@@ -14,11 +14,11 @@ Tools that make engineering easier for beginners.
 
 🗺️ [**Understand Everything**](https://github.com/Jia0612/understand-everything-for-beginners): Turn any vibe-coded project into an interactive map that explains its system design and code in plain language
 
-🪜 **Tiny Step**: Break any scary topic into one tiny step. Still scared? Make it smaller
+**Tiny Step**: Break any scary topic into one tiny step. Still scared? Make it smaller
 
-🧑‍🏫 **Feynman Explainer**: A coding-agent skill that explains technical decisions in plain language before acting
+**Feynman Explainer**: A coding-agent skill that explains technical decisions in plain language before acting
 
-🛡️ **Vibe Guard**: A coding-agent skill that keeps vibe-coded projects from turning into unmaintainable messes
+**Vibe Guard**: A coding-agent skill that keeps vibe-coded projects from turning into unmaintainable messes
 
 ---
 
@@ -26,9 +26,9 @@ Tools that make engineering easier for beginners.
 
 Turn product ideas into platform-native content.
 
-✍️ **CopyCraft**: Turn one brand brief into platform-native ad copy for 10 platforms
+**CopyCraft**: Turn one brand brief into platform-native ad copy for 10 platforms
 
-🥔 [**Ask Mr. Potato**](https://github.com/Jia0612/ask-mr-potato): Write Xiaohongshu-native marketing copy through a multi-turn brief, not a prompt box
+[**Ask Mr. Potato**](https://github.com/Jia0612/ask-mr-potato): Write Xiaohongshu-native marketing copy through a multi-turn brief, not a prompt box
 
 ---
 
