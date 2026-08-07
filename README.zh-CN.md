@@ -1,4 +1,4 @@
-# Hi，我是 Riley 👋 一个“激进”的 AI 学习者 :)
+# Hi，我是 Riley 👋 致力成为终身学习者&创造者
 
 [English](README.md) · **中文**
 
