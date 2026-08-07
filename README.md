@@ -1,4 +1,4 @@
-# Hi, I'm Riley 👋 An "aggressive" AI learner :)
+# Hi, I'm Riley 👋 A relentless AI learner & builder
 
 **English** · [中文](README.zh-CN.md)
 
