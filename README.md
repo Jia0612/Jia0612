@@ -2,7 +2,11 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I build tools that make engineering easier for beginners. I don't have a traditional engineering background, and I used to feel powerless when I couldn't turn my product ideas into reality. Learning engineering was painful, so I started building the tools I wish I had. For me, code shouldn't be a barrier. A middle schooler should be able to understand it. Let's make learning like gaming.
+Riley is an "aggressive" AI learner, devotes to make learning as exciting as gaming.
+
+I build tools that make engineering more approachable for beginners.
+
+Happy learning—and happy building!
 
 💼 [LinkedIn](https://www.linkedin.com/in/shujie0607/)
 
