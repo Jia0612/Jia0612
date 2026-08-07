@@ -16,7 +16,9 @@ Let’s make learning as exciting as gaming!
 
 ## 🧅 OnionPaper
 
-Reading a difficult paper or book in a second language often means switching between a reader, translator, notes app, dictionary, and AI chat. OnionPaper brings the entire learning workflow into one focused workspace. [Try OnionPaper](https://onionpaper.vercel.app/)
+OnionPaper is built for anyone who needs to absorb large amounts of new information in a <u>**second language**</u> every day—whether you’re an <u>**AI product manager in Silicon Valley**</u>, a <u>**PhD**</u> reading research papers, or a high school student preparing for the SAT. Reading a difficult paper or book often means switching between a reader, translator, notes app, dictionary, and AI chat. OnionPaper brings the entire learning workflow into one focused workspace.
+
+[Try OnionPaper](https://onionpaper.vercel.app/)
 
 ---
 
