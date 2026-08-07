@@ -16,7 +16,11 @@ Let’s make learning as exciting as gaming!
 
 ## 🧅 OnionPaper
 
-OnionPaper is built for anyone who needs to absorb large amounts of new information in a <u>**second language**</u> every day—whether you’re an <u>**AI product manager in Silicon Valley**</u>, a <u>**PhD**</u> reading research papers, or a high school student preparing for the SAT. Reading a difficult paper or book often means switching between a reader, translator, notes app, dictionary, and AI chat. OnionPaper brings the entire learning workflow into one focused workspace.
+OnionPaper is built for anyone who needs to absorb large amounts of new information in a <u>**second language**</u> every day—whether you’re an <u>**AI product manager in Silicon Valley**</u>, a <u>**PhD**</u> reading research papers, or a high school student preparing for the SAT.
+
+But learning in a <u>**second language**</u> often means switching between a reader, translator, notes app, dictionary, and AI chat. OnionPaper brings everything into one focused workspace.
+
+OnionPaper — Learn beyond language.
 
 [Try OnionPaper](https://onionpaper.vercel.app/)
 
