@@ -1,12 +1,14 @@
-# Hi, I'm Riley 👋
+# Hi, I'm Riley 👋 An "aggressive" AI learner :)
 
 **English** · [中文](README.zh-CN.md)
 
-Riley is an "aggressive" AI learner, devotes to make learning as exciting as gaming.
+I started out as an advertising major at UIUC with no technical background, then went on to build MarTech and AdTech solutions for leading global brands such as L’Oréal and Gucci.
 
-I build tools that make engineering more approachable for beginners.
+That work gave me plenty of product ideas—but not yet the technical skills to build them myself. That gap led me to study computer science at Columbia and Georgia Tech, and eventually to build the tools I wish I’d had when I was starting out.
 
-Happy learning—and happy building!
+I believe code shouldn’t be a gatekeeper. It should be explained clearly enough for a middle schooler to understand.
+
+Let’s make learning as exciting as gaming!
 
 💼 [LinkedIn](https://www.linkedin.com/in/shujie0607/)
 
