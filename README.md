@@ -20,8 +20,6 @@ OnionPaper is built for anyone who needs to absorb large amounts of new informat
 
 But learning in a <u>**second language**</u> often means switching between a reader, translator, notes app, dictionary, and AI chat. OnionPaper brings everything into one focused workspace.
 
-OnionPaper — Learn beyond language.
-
 [Try OnionPaper](https://onionpaper.vercel.app/)
 
 ---
