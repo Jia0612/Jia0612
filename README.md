@@ -26,11 +26,15 @@ Tools that make engineering easier for beginners.
 
 🗺️ [**Understand Everything**](https://github.com/Jia0612/understand-everything-for-beginners): Turn any vibe-coded project into an interactive map that explains its system design and code in plain language
 
-**Tiny Step**: Break any scary topic into one tiny step. Still scared? Make it smaller
+🔤 [**Code Translation**](https://github.com/Jia0612/code-translation): Turn a codebase's core files into an interactive book that explains every line in plain English
 
-**Feynman Explainer**: A coding-agent skill that explains technical decisions in plain language before acting
+🧩 [**LeetCode to Course**](https://github.com/Jia0612/leetcode-to-course): Turn one LeetCode problem into a zero-background interactive course, from solving it by hand to understanding the faster solution
 
-**Vibe Guard**: A coding-agent skill that keeps vibe-coded projects from turning into unmaintainable messes
+▶️ [**YouTube to Course**](https://github.com/Jia0612/youtube-to-course): Turn one YouTube lecture into an interactive course with verified transcripts, source-checked code, quizzes, and plain-language explanations
+
+📝 [**Blog to Course**](https://github.com/Jia0612/blog-to-course): Turn any long-form article into an interactive course while preserving the original ideas, quotes, and sources
+
+📖 [**PDF Book to Course**](https://github.com/Jia0612/pdfbook-to-course): Turn one PDF book chapter into an interactive course with visual explanations and a sourced design-along exercise
 
 ---
 

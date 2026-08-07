@@ -20,11 +20,15 @@
 
 🗺️ [**Understand Everything**](https://github.com/Jia0612/understand-everything-for-beginners)：把任何 vibe-coded 项目变成一张可交互的地图，用人话解释它的系统设计和代码
 
-🪜 **Tiny Step**：把任何让人害怕的知识点拆成一小步。还是害怕？那就继续拆小
+🔤 [**Code Translation**](https://github.com/Jia0612/code-translation)：把代码库的核心文件变成一本互动翻译书，用简单英语逐行解释代码
 
-🧑‍🏫 **Feynman Explainer**：让 coding agent 在动手前先用大白话解释技术决定
+🧩 [**LeetCode to Course**](https://github.com/Jia0612/leetcode-to-course)：把一道 LeetCode 题变成零基础互动课程，从自己动手解题一路讲到更快的解法
 
-🛡️ **Vibe Guard**：防止 vibe-coded 项目慢慢变成难以维护的「屎山」
+▶️ [**YouTube to Course**](https://github.com/Jia0612/youtube-to-course)：把一节 YouTube 课程变成互动课程，包含经过核对的字幕、源码、测验和大白话解释
+
+📝 [**Blog to Course**](https://github.com/Jia0612/blog-to-course)：把任何长文变成互动课程，同时忠实保留原文观点、引用和来源
+
+📖 [**PDF Book to Course**](https://github.com/Jia0612/pdfbook-to-course)：把 PDF 书中的一章变成互动课程，包含可视化讲解和有真实来源的设计练习
 
 ---
 
