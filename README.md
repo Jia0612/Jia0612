@@ -28,7 +28,7 @@ But learning in a <u>**second language**</u> often means switching between a rea
 
 Tools that make engineering easier for beginners.
 
-🗺️ [**Understand Everything**](https://github.com/Jia0612/understand-everything-for-beginners): Turn any vibe-coded project into an interactive map that explains its system design and code in plain language
+🗺️ [**Understand Everything**](https://github.com/Jia0612/understand-everything-for-beginners): Inspired by Understand Anything, Understand EVERYTHING turn any project into an interactive map that helps you explain its system design, technical decisions, and impact clearly—to interviewers, teammates, and non-technical stakeholders.
 
 🔤 [**Code Translation**](https://github.com/Jia0612/code-translation): Turn a codebase's core files into an interactive book that explains every line in plain English
 
