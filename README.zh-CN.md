@@ -36,7 +36,7 @@
 
 把产品想法变成适合不同平台的原生内容。
 
-✍️ **CopyCraft**：输入一次品牌信息，为 10 个平台生成原生广告文案
+✍️ **CopyCraft**（Beta）：输入一次品牌信息，为 10 个平台生成原生广告文案。[观看 TikTok 演示](https://www.tiktok.com/t/ZTAW2pPyY/)
 
 🥔 [**Ask Mr. Potato**](https://github.com/Jia0612/ask-mr-potato)：通过多轮对话生成小红书原生营销文案，而不是只给 AI 一个 prompt
 

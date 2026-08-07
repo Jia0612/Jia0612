@@ -46,7 +46,7 @@ Tools that make engineering easier for beginners.
 
 Turn product ideas into platform-native content.
 
-**CopyCraft**: Turn one brand brief into platform-native ad copy for 10 platforms
+**CopyCraft** *(Beta)*: Turn one brand brief into platform-native ad copy for 10 platforms. [Watch the TikTok demo](https://www.tiktok.com/t/ZTAW2pPyY/)
 
 [**Ask Mr. Potato**](https://github.com/Jia0612/ask-mr-potato): Write Xiaohongshu-native marketing copy through a multi-turn brief, not a prompt box
 
